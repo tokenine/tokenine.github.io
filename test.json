@@ -2,9 +2,9 @@
   "name": "BEP20 Token List",
   "timestamp": "2020-10-12T05:05:10.290Z",
   "version": {
-    "major": 1,
-    "minor": 9,
-    "patch": 23
+        "major": 1,
+        "minor": 10,
+        "patch": 1
   },
   "tags": {},
   "logoURI": "https://tokens.bscswap.com/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
