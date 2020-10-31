@@ -21,6 +21,22 @@
       "chainId": 56,
       "logoURI": "https://tokens.bscswap.com/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
     },
+   {
+      "name": "Token0",
+      "address": "0xBa77fab767a1C493e14e6Ad3a9cd929Cf72e35CE",
+      "symbol": "T0",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://tokens.bscswap.com/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+    },
+    {
+      "name": "Token1",
+      "address": "0x74cD50cd0b72370bbBCaC0Ce5866326d85CFE09d",
+      "symbol": "ADA",
+      "decimals": 18,
+      "chainId": 4,
+      "logoURI": "https://tokens.bscswap.com/images/0xf307910A4c7bbc79691fD374889b36d8531B08e3.png"
+    },    
     {
       "name": "Ankr",
       "address": "0xf307910A4c7bbc79691fD374889b36d8531B08e3",
